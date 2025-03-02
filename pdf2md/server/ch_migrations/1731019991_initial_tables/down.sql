@@ -1,2 +1,0 @@
-DROP TABLE IF EXISTS file_chunks;
-DROP TABLE IF EXISTS file_tasks;
